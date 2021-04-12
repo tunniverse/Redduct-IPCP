@@ -1,6 +1,10 @@
 <h1>Redduct: InterPlanetary Commerce Protocol (IPCP) v.1.0</h1>
 
 <br>
+Basic diagram of Content Hash & Distrubuted Network
+ <img src="https://github.com/tunniverse/Redduct-IPCP/blob/main/Content_Hash_1.png" alt="IPCP Content Hash" width="" height=""> 
+ <img src="https://github.com/tunniverse/Redduct-IPCP/blob/main/Content_Hash_2.png" alt="IPCP Distrubuted Network" width="" height=""> 
+
 <h2>Download white paper from IPFS address below</h2><br>
 IPFS Address Hash: QmbfS9QikPzZ5YpWtFUBYzzUuA4VrkF2yu9xmwLV97hJKw <br>
 Author: <a href="https://twitter.com/TunKarnjanakul">Tun Karnjanakul</span></a> <br>
