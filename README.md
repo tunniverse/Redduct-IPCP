@@ -17,3 +17,5 @@ We are searching for<br>
 - Smartcontract Developer: Rust or Golang, CosmosSDK, Rest API <br>
 - Front-end Web Developer: Vue.js, Nuxt.js, Rest API <br>
 - Marketing: Grow awareness, perception and adoption for Redduct IPCP <br>
+<br>
+Contact me on <a href="https://twitter.com/TunKarnjanakul">Twitter</span></a> <br>
