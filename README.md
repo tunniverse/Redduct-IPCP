@@ -12,4 +12,8 @@ Date: 14 Mar 2021 <br>
 
 
 <h2>Progresing</h2><br>
-Searching for talented software engneer to join team, Please contact me if you like to join or support this project.
+Searching for talented software engneer to join team, Please contact me if you like to join or support this project.<br>
+We are searching for<br>
+- Smartcontract Developer: Rust or Golang, CosmosSDK, Rest API <br>
+- Front-end Web Developer: Vue.js, Nuxt.js, Rest API <br>
+- Marketing: Grow awareness, perception and adoption for Redduct IPCP <br>
